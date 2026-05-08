@@ -1,9 +1,9 @@
 name: Docker Build & Push
 
-on:
+#on:
  # push:
   #  branches: [main]
-#on: 
+on: 
     workflow_call:
 
 jobs:
