@@ -1,5 +1,6 @@
 name: CICD
 
+#Manual click
 on:
   workflow_dispatch:
 
